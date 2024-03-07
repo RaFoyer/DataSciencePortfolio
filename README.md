@@ -29,7 +29,7 @@ Welcome to my GitHub portfolio, showcasing a variety of projects demonstrating m
 Each project is contained in its own folder, complete with a Jupyter notebook, a detailed README for project-specific insights, and any datasets or resources used. Future projects will be added upon completion, expanding the repository's scope.
 
 ## About Me
-I am [Your Name], an aspiring data scientist passionate about extracting meaningful insights from data and utilizing machine learning to address real-world problems. My evolution in data science is chronicled through the projects in this repository, reflecting a diverse skill set and a commitment to learning and professional growth.
+I am Rasmus Foyer, an aspiring data scientist passionate about extracting meaningful insights from data and utilizing machine learning to address real-world problems. My evolution in data science is chronicled through the projects in this repository, reflecting a diverse skill set and a commitment to learning and professional growth.
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/rasmus-foyer/).
 
